@@ -1,2 +1,2 @@
-# C-PROGRAM
-# c language program solving.
+# C++-PROGRAM
+# c++ language program solving.
